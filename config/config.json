@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "ads_enabled": true,
+  "use_test_ads": true,
+  "interstitial": {
+    "every_n_runs_min": 2,
+    "every_n_runs_max": 3,
+    "min_seconds_between": 120,
+    "max_per_session": 6,
+    "skip_first_session": true,
+    "min_seconds_after_rewarded": 90
+  },
+  "rewarded_enabled": { "revive": true, "rocket": true, "doubler": true, "cosmetic": true },
+  "min_supported_build": { "ios": 1, "android": 1 },
+  "notice": { "id": 0, "tr": "", "en": "", "url": "" }
+}
