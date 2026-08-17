@@ -10,7 +10,20 @@
     "skip_first_session": true,
     "min_seconds_after_rewarded": 90
   },
-  "rewarded_enabled": { "revive": true, "rocket": true, "doubler": true, "cosmetic": true },
-  "min_supported_build": { "ios": 1, "android": 1 },
-  "notice": { "id": 0, "tr": "", "en": "", "url": "" }
+  "rewarded_enabled": {
+    "revive": true,
+    "rocket": false,
+    "doubler": true,
+    "cosmetic": true
+  },
+  "min_supported_build": {
+    "ios": 1,
+    "android": 1
+  },
+  "notice": {
+    "id": 0,
+    "tr": "",
+    "en": "",
+    "url": ""
+  }
 }
