@@ -14,7 +14,7 @@
     "revive": true,
     "rocket": false,
     "doubler": true,
-    "cosmetic": true
+    "cosmetic": false
   },
   "min_supported_build": {
     "ios": 1,
